@@ -1,3 +1,5 @@
+# original name in my thesis project
+# SCF1_compiling_percentiles.py
 # Download files via SCF_preparation.md
 
 import dfgui # dfgui.show(df)

@@ -1,3 +1,4 @@
+# Original file name in my Phd project: s3c_matrix.py
 # ----------------------------------------------------------------------------- # 1
 # It takes roughly 3 minutes to complete the program. 11-9-2017
 
