@@ -24,7 +24,7 @@ For expositional convenience, I categories them into two groups. The first nine 
   <img src="/Graphs/dnonhouses_2qt_ent.png" width="230" hspace="10"/>
 </p>
 
-## The base model captures the wealth pattern of US households to a reasonable extent
+## Can we model these patterns in a unified framework?
 
 <p align="left">
   <img src="/Graphs/wok_Q2_ModelvData.png" width="230" hspace="10" />
@@ -32,11 +32,13 @@ For expositional convenience, I categories them into two groups. The first nine 
 </p>
 
 
-## Is a wealth-based taxation the elixir of inequality?
+## If yes, can we answer whether a wealth-based taxation is  the elixir of inequality?
 
-The answer depends on what measure you are using and what demographic characteristic the representative person you are interested in. The characteristics covered in my research include age, capital, occupation, as well as the ability to initiate and sustainably run a business.
+The answer depends on what measure we use, what group of the wealth distribution is of interest, and, from the perspective of a household, which social economical class they are in. Besides, the answer is undoubtedly shaped by how extreme the wealth-based tax is introduced into the economy. Is it a revenue-neutral tax change? Is the tax policy changed to a pure wealth tax system or a tax system with the hybrid of wealth taxes and, say, capital income taxes. 
 
-#### Entrepreneurs benefit from a wealth-based tax policy, while wage earners don't
+One scenario I considered in my thesis is a tax scheme that is composed a flat capital income tax and a progressive wealth tax, like what the French economist, Thomas Piketty proposed in his Amazon best seller, "Capital in the Twenty-First Century."
+
+#### Entrepreneurs benefit from the wealth-based tax policy, while wage earners don't
 
 <p float="left">
   <img src="/Graphs/ent_ast_Q2_sys_compare.png" width="230" hspace="10" />
